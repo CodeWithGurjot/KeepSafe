@@ -1,0 +1,27 @@
+@media (max-width: 600px) {
+  .login-card{width: 95% !important;
+  height: auto;}
+  .about-box{
+    width: 95% !important;
+  }
+}
+
+i{
+    cursor: pointer;
+}
+
+.delete:hover{
+  color: red;
+}
+
+.edit:hover{
+    color:gold;
+}
+
+.login-img{
+  width: 92vh;
+}
+
+.login-card{
+  width: 40%;
+}
